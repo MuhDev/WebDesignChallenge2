@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-```html
 <h2>Example of code</h2>
 
 <pre>
@@ -15,7 +14,6 @@ A new Flutter project.
         </div>
     </div>
 </pre>
-```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
