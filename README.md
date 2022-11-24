@@ -7,7 +7,7 @@
         <div class="block two first">
             <h2>This is the final result</h2>
             <div class="wrap">
-            <img source="http://drive.google.com/uc?export=view&id=1BoGIvHjE7ApsPmBCWlNWR7PeeArl6skL"/>
+            <img source="https://i.ibb.co/BPpf9VD/direct-link-generated-from-shareable-link-and-using-in-img-tag-html.jpg"/>
             </div>
         </div>
     </div>
